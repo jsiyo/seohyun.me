@@ -3,7 +3,7 @@ module.exports = {
     title: `scorpion's dev log`,
     author: '윤서현',
     description: '이것 저것 생각날때마다 기록하자',
-    siteUrl: 'https://seohyun0120.io',
+    siteUrl: 'https://seohyun.me',
   },
   pathPrefix: '/',
   plugins: [
@@ -88,7 +88,7 @@ module.exports = {
                   .replace(/,\s*\/static\//g, `,${siteUrl}/static/`);
                 const url = siteUrl + '/' + slug;
                 const postText = `
-                <div style="margin-top=55px; font-style: italic;">(This is an article posted to my blog at seohyun0120.io. You can read it online by <a href="${url}">clicking here</a>.)</div>
+                <div style="margin-top=55px; font-style: italic;">(This is an article posted to my blog at seohyun.me. You can read it online by <a href="${url}">clicking here</a>.)</div>
                 `;
 
                 return {
