@@ -20,7 +20,7 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = get(this.props, 'data.site.siteMetadata.title');
     let { previous, next } = this.props.pageContext;
 
-    const disqusShortname = 'scorpion';
+    const disqusShortname = 'scorpion-dev-log';
     const disqusConfig = {
       identifier: post.id,
       title: post.frontmatter.title,
