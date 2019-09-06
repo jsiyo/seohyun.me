@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `scorpion's dev log`,
     author: '윤서현',
-    description: '이것 저것 생각날때마다 기록하자',
+    description: '이것저것 생각날 때마다 기록하기',
     siteUrl: 'https://seohyun.me',
   },
   pathPrefix: '/',
@@ -155,5 +155,11 @@ module.exports = {
     },
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-147256838-1",
+      },
+    },
   ],
 };
