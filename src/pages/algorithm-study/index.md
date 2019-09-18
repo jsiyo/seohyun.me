@@ -1,8 +1,9 @@
 ---
 title: 알고리즘 풀기 챌린지
 date: '2019-09-18'
-spoiler: 🧗‍열심히 문제를 풀어봅시다.
+spoiler: 🧗‍열심히 문제를 풀어봅시다
 ---
+> **미래의 내**가 **과거의 나**를 보며 `반성`하라고 만든 기록용 포스팅... 더 열심히 풀자!
 
 Language: C++
 <br>
@@ -10,6 +11,7 @@ Challenge: BOJ, Google CodeJam, KickStart
 
 ## BOJ 백준
 - 1260번
+- 2178번
 <br>
 
 ## CodeJam
