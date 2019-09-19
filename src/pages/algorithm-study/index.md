@@ -13,6 +13,7 @@ Challenge: **BOJ, Google CodeJam, KickStart**
 [코드 보러가기](https://github.com/seohyun0120/algorithm-study/blob/master/BOJ/README.md)
 - 1260번
 - 2178번
+- 7576번
 <br>
 
 ## CodeJam
