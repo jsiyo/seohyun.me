@@ -14,6 +14,7 @@ Challenge: **BOJ, Google CodeJam, KickStart**
 - 1260번
 - 2178번
 - 7576번
+- 1012번
 <br>
 
 ## CodeJam
