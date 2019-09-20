@@ -11,8 +11,7 @@ class Footer extends React.Component {
           paddingTop: rhythm(1),
         }}
       >
-        <div style={{ float: 'right' }}>
-        </div>
+        <div style={{ float: 'right' }}></div>
         <a
           href="https://facebook.com/Yoonseohyun"
           target="_blank"
