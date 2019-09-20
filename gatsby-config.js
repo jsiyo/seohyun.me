@@ -47,6 +47,16 @@ module.exports = {
               target: '_blank',
             },
           },
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              classPrefix: 'language-',
+              inlineCodeMarker: null,
+              aliases: { sh: 'bash', js: 'javascript' },
+              showLineNumbers: false,
+              noInlineHighlight: false,
+            },
+          },
         ],
       },
     },
