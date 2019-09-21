@@ -22,6 +22,8 @@ Challenge: **BOJ, Google CodeJam, KickStart**
 ## Programmers 프로그래머스
 [코드 보러가기](https://github.com/seohyun0120/algorithm-study/blob/master/Programmers/README.md)
 - 타일 장식물
+- 타겟 넘버
+- 
 
 ## CodeJam
 [코드 보러가기](https://github.com/seohyun0120/algorithm-study/blob/master/CodeJam/README.md)
