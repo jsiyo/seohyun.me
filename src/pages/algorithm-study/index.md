@@ -16,7 +16,12 @@ Challenge: **BOJ, Google CodeJam, KickStart**
 - 7576번
 - 1012번
 - 13023번
+- 1463번
 <br>
+
+## Programmers 프로그래머스
+[코드 보러가기](https://github.com/seohyun0120/algorithm-study/blob/master/Programmers/README.md)
+- 타일 장식물
 
 ## CodeJam
 [코드 보러가기](https://github.com/seohyun0120/algorithm-study/blob/master/CodeJam/README.md)
