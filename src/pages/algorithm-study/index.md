@@ -31,6 +31,10 @@ Challenge: **BOJ, Google CodeJam, KickStart**
 - 네트워크
 - 기능 개발
 - 완주하지 못한 선수
+- 최대공약수와 최소공배수
+- H-index
+- 소수 만들기
+- 입국 심사
 
 ## CodeJam
 
