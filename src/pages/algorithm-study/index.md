@@ -10,7 +10,9 @@ Language: **C++**
 Challenge: **BOJ, Google CodeJam, KickStart**
 
 ## BOJ 백준
+
 [코드 보러가기](https://github.com/seohyun0120/algorithm-study/blob/master/BOJ/README.md)
+
 - 1260번
 - 2178번
 - 7576번
@@ -20,13 +22,20 @@ Challenge: **BOJ, Google CodeJam, KickStart**
 <br>
 
 ## Programmers 프로그래머스
+
 [코드 보러가기](https://github.com/seohyun0120/algorithm-study/blob/master/Programmers/README.md)
+
 - 타일 장식물
+- 정수 삼각형
 - 타겟 넘버
 - 네트워크
+- 기능 개발
+- 완주하지 못한 선수
 
 ## CodeJam
+
 [코드 보러가기](https://github.com/seohyun0120/algorithm-study/blob/master/CodeJam/README.md)
+
 - I/O 2018 for Women
   - Burger Optimization
   - CEO Search
@@ -40,7 +49,9 @@ Challenge: **BOJ, Google CodeJam, KickStart**
 <br>
 
 ## KickStart
+
 [코드 보러가기](https://github.com/seohyun0120/algorithm-study/blob/master/Kickstart/README.md)
+
 - Practice Round 2019
   - Number Guessing
   - Mural
